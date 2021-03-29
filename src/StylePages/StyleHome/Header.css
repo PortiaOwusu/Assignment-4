@@ -14,12 +14,11 @@ body {
   /* background-color: #01c160; */
   font-family: cursive;
 }
-/* .active {
-  background-color: gold;
-  color: rgb(255, 255, 255);
-  box-shadow: 5px 10px 30px rgba(64, 149, 198, 0.411);
-  transition: all ease 0.2s;
-} */
+.active {
+  background: #000;
+  color: #fff;
+  transition: ease 0.2s;
+}
 
 .head1 ul li {
   height: 40px;

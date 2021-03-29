@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  height: 20vh;
+  width: 100%;
+  background-color: #1e4f5c;
+  position: absolute;
+  bottom: 0;
+  align-items: center;
+}
+.footertext {
+  height: 100%;
+  width: 20%;
+  color: cornsilk;
+}

@@ -1,0 +1,14 @@
+.servicepage h1 {
+  font-size: 2rem;
+  width: 100%;
+  text-align: center;
+  background-color: cyan;
+  margin-top: 3rem;
+}
+
+.servicedisplay {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  /* height: 40vh; */
+}

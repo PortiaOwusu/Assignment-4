@@ -1,0 +1,10 @@
+.servicecard {
+  width: 30%;
+  height: 50vh;
+  background-color: darkorange;
+}
+
+.servicecard > img {
+  width: 100%;
+  height: 100%;
+}

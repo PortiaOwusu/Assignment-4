@@ -1,6 +1,6 @@
-const FooterText = () => {
+const FooterText = ({ foothead, foottext }) => {
   return (
-    <div>
+    <div className="footertext">
       <h2>{foothead}</h2>
       <p>{foottext}</p>
     </div>

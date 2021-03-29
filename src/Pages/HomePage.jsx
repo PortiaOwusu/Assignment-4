@@ -1,6 +1,8 @@
 import "../StylePages/StyleHome/HomeBackground.css";
 import "../StylePages/StyleHome/HomeBoxes.css";
+
 import house from "../StylePages/img/image1.png";
+import Footer from "./Footer";
 function HomePage() {
   return (
     <div className="home">
@@ -18,7 +20,8 @@ function HomePage() {
           Details
         </a>
       </div>
-      {/* <img className="house" src={house} alt="" /> */}
+
+      <Footer />
     </div>
   );
 }
